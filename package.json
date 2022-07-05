@@ -1,0 +1,22 @@
+{
+  "name": "nodee",
+  "version": "0.0.1",
+  "description": "noding",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongh6179/nodee.git"
+  },
+  "author": "dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongh6179/nodee/issues"
+  },
+  "homepage": "https://github.com/dongh6179/nodee#readme",
+  "dependencies": {
+    "girlfriend": "0.0.1"
+  }
+}
