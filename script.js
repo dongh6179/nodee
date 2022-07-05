@@ -1,3 +1,1 @@
-var gf = require('girlfriend');
-
-gf.kissMe();
+catMe();

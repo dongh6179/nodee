@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/dongh6179/nodee#readme",
   "dependencies": {
-    "girlfriend": "0.0.1"
+    "game-life": "^1.2.2",
+    "girlfriend": "0.0.1",
+    "minesweeper-board": "^1.1.2",
+    "rock-paper-scissors-rukkiesman": "^1.1.2"
   }
 }
